@@ -1,0 +1,38 @@
+.page-title{
+color: #8E3200; /* cor do texto */
+
+margin: 40px auto 10px; /* margem superior, direita e esquera(auto) e inferior */
+
+padding-left: 10px; /* preencimento da esquerda de 10px */
+
+width: 80%; /* largura de 80% */
+
+font-size: 54pt; /* tamanho da fonte */
+
+text-align: center; /* centralizar texto */
+font-weight: bold;  /* peso da font */
+}
+
+h2{ 
+margin: 10px auto 10px; /* margem superior, direita e esquera(auto) e inferior */
+padding-left: 10px; /* preencimento da esquerda de 10px */
+text-align: center; /* centralizar texto */
+width: 80%; /* largura de 80% */
+font-size: 15pt; /* tamanho da fonte */
+color: #8E3200; /* cor do texto */
+}
+
+main{
+    width: 80%;
+    margin: 40px auto 5px;
+    padding-left: 10px;
+   
+}
+.article-title{
+    color: #A64B2A;
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
