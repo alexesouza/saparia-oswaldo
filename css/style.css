@@ -3,7 +3,7 @@
 
 body{
     
-    
+    background-color: #D7A86E;
 }
 
 .page-title{
@@ -15,7 +15,7 @@ padding-left: 10px; /* preencimento da esquerda de 10px */
 
 width: 80%; /* largura de 80% */
 
-font-size: 64pt; tamanho da fonte
+font-size: 64pt;
 
 text-align: center; /* centralizar texto */
 font-weight: bold;  /* peso da font */
@@ -89,3 +89,18 @@ footer{
     justify-content: space-between;
     align-items: center;
    }
+
+.lista-central{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 40px auto 5px;
+   background-color: #8E3200;
+   font-size: 18pt;
+    font-weight: 900;
+   font-family: 'Hind', sans-serif;
+   border-radius: 10px;
+   box-shadow: 0px 0px 2px 5px rgba(37, 29, 21, 0.3);
+padding: 20px 0 ;
+
+}
